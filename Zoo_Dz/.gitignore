@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# —борка
+bin/
+obj/
+
+# Ћоги и временные
+*.log
+*.tmp

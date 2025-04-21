@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Zoo_Dz.Api.props" />
+</Project>
