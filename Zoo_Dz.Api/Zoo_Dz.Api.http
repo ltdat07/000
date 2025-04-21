@@ -1,6 +1,0 @@
-@Zoo_Dz.Api_HostAddress = http://localhost:5264
-
-GET {{Zoo_Dz.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
